@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Notion Preview</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      background: transparent;
+      overflow-x: hidden;
+    }
+    .wrapper {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+    }
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      margin: 0;
+      padding: 0;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <!-- 순서대로 넣을 이미지 및 GIF 파일 경로를 입력하세요 -->
+    <img src="./1_1.png" alt="상단">
+    <img src="./gamepoint_1_2.gif" alt="애니메이션">
+    <img src="./1_3.png" alt="하단">
+  </div>
+</body>
+</html>
