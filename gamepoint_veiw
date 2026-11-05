@@ -32,9 +32,9 @@
 <body>
   <div class="wrapper">
     <!-- 순서대로 넣을 이미지 및 GIF 파일 경로를 입력하세요 -->
-    <img src="./1_1.png" alt="상단">
+    <img src="./1_1.jpg" alt="상단">
     <img src="./gamepoint_1_2.gif" alt="애니메이션">
-    <img src="./1_3.png" alt="하단">
+    <img src="./1_3.jpg" alt="하단">
   </div>
 </body>
 </html>
